@@ -21,19 +21,13 @@
 <p align="center">
   <h3>Main Skills</h3>
     <h4> ✅ Languages: </h4>
-    <img src="https://skillicons.dev/icons?i=go,ruby,python,js,ts,java,cs" /><br/>
+    <img src="https://skillicons.dev/icons?i=go,ruby,python,js,ts,java,cs,c,cpp,solidity,rust" /><br/>
     <h4> ✅ Frameworks/Libraries: </h4>
     <img src="https://skillicons.dev/icons?i=rails,django,nodejs,react,next,angular,vue,nuxt,spring,wordpress" /><br/>
     <h4> ✅ Databases: </h4>
     <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis" /><br/>
     <h4> ✅ Others: </h4>
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,git,ansible" /><br/>
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,git,ansible,tailwind,bootstrap" /><br/>
 </p>
 
 <hr /> 
-
-![sweetdream-001 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=sweetdream-001)
-
-![sweetdream-001 github-trophies](https://stats.dooboo.io/api/github-trophies?login=sweetdream-001)
-
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sweetdream-001)
