@@ -29,5 +29,11 @@
     <h4> ✅ Others: </h4>
     <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,git,ansible,tailwind,bootstrap" /><br/>
 </p>
-
+<h2>friend infor</h2>
+<p>nightmaredeceam@gmail.com
+champion
+  noahwirth0123@gmail.com
+middleschool
+  digitalworld1002@gmail.com
+</p>
 <hr /> 
